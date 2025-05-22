@@ -65,4 +65,4 @@ Now you're ready to convert your map.
         python vsmaptools.py your_map_file.db
         ```
         **IMPORTANT:** Replace `your_map_file.db` with the **exact name** of your `.db` file (e.g., `17036cd4-fd1c-4c2b-87ff-5c5e3fe6eee7.db`).
-    * The script will run. Once it's finished, a new **`.png` image file** (with the same name as your `.db` file) will appear in the same folder.
+    * The script will run. Once it's finished, a new **`.png` image file** (with the name name defined in the config file at the 'output' value.) will appear in the same folder.
